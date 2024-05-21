@@ -1,5 +1,5 @@
 bot_token="6002172886:AAEaVtdHqNvh2ACAwTw0QH_WCTliHj9IyUA"
-api_hash=""
-api_id=""
+api_hash="adcfac3b2c5ec0b803fdbfa69e7cf272"
+api_id="5329569"
 owner_id="918454165"
 owner_username="@Kar2th1k"
